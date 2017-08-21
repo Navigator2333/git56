@@ -43,6 +43,8 @@ public class testSolr {
 			System.out.println("测试第二次提交");
 			System.out.println("测试第三次提交");
 			System.out.println("测试第四次提交");
+			System.out.println("测试第五次提交");
+			System.out.println("测试第六次提交");
 		}
 		
 	}
