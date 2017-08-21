@@ -41,6 +41,7 @@ public class testSolr {
 			Object name = solrDocument.get("name");
 			System.out.println("id:"+id+",name:"+name);
 			System.out.println("测试第二次提交");
+			System.out.println("测试第三次提交");
 		}
 		
 	}
